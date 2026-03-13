@@ -4,11 +4,9 @@ Du an nay xay dung mo hinh ngon ngu bigram cho tieng Viet o muc am tiet, su dung
 
 ## Nguon du lieu
 
-Corpus duoc tai tu bo **Universal Dependencies Vietnamese VTB**:
+Corpus duoc tai tu bo:
 
-- https://raw.githubusercontent.com/UniversalDependencies/UD_Vietnamese-VTB/master/vi_vtb-ud-train.conllu
-- https://raw.githubusercontent.com/UniversalDependencies/UD_Vietnamese-VTB/master/vi_vtb-ud-dev.conllu
-- https://raw.githubusercontent.com/UniversalDependencies/UD_Vietnamese-VTB/master/vi_vtb-ud-test.conllu
+**Dataset:** Wikipedia tieng Viet (Hugging Face: `tdtunlp/wikipedia_vi`)
 
 Script tai va trich xuat cau:
 
